@@ -1,4 +1,5 @@
 # 5G_ENERGY_CONSUMPTION_PREDICTION
+![5G](https://github.com/cliffordnwanna/5G_ENERGY_CONSUMPTION_PREDICTION/raw/main/IMAGES/5G.jpeg)
 
 ## Project Overview
 
@@ -82,21 +83,23 @@ This project uses the following Python libraries:
 
 ## Screenshots
 Pandas Profiling Report
-(Insert a link or an image of the profiling report)
+![ProfileReport](https://github.com/cliffordnwanna/5G_ENERGY_CONSUMPTION_PREDICTION/blob/main/IMAGES/ProfileReport.png)
 
 Outliers Handling (ESMODE Column)
+![ESMODE](https://github.com/cliffordnwanna/5G_ENERGY_CONSUMPTION_PREDICTION/raw/main/IMAGES/boxplot.png)
 
 Model Performance Comparison
-(Insert a chart comparing model performance if applicable)
+![model_performance](https://github.com/cliffordnwanna/5G_ENERGY_CONSUMPTION_PREDICTION/raw/main/IMAGES/model%20comparsion.png)
 
-Conclusion
+## Conclusion
 This project demonstrates the effectiveness of supervised regression techniques in predicting energy consumption of 5G base stations. The Decision Tree Regressor model outperformed the Linear Regression model in terms of accuracy.
 
-Future Work
+## Future Work
 Experiment with more advanced models like Random Forest, XGBoost, and Gradient Boosting.
 Perform hyperparameter tuning using GridSearchCV.
 Experiment with feature engineering and new datasets.
 Deploy the model using Flask or Streamlit for real-time predictions.
+
 Author
 Your Name
 
