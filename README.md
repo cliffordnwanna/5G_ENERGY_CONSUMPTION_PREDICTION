@@ -96,33 +96,33 @@ Model Performance Comparison
 
 ### 1. **Reducing Operational Costs in Telecom Networks**
    - **Problem**: Telecom companies spend a significant portion of their operational expenses (OPEX) on energy costs—**90% of OPEX** is estimated to go toward energy bills, with over 70% consumed by **5G base stations**.
-   - **Solution**: By accurately predicting the **energy consumption** of 5G base stations based on traffic conditions, configurations, and energy-saving methods, your project enables telecom operators to better manage energy usage. This leads to:
+   - **Solution**: By accurately predicting the **energy consumption** of 5G base stations based on traffic conditions, configurations, and energy-saving methods, this project enables telecom operators to better manage energy usage. This leads to:
      - **Cost reduction**: Operators can optimize energy use, reducing energy bills and improving profitability.
      - **Energy efficiency**: Predicting high-energy consumption periods helps in scheduling power-saving modes or adjusting station configurations for efficiency.
 
 ### 2. **Sustainability and Reducing Environmental Impact**
    - **Problem**: Telecom infrastructure contributes significantly to global energy consumption and carbon emissions. With the rapid expansion of 5G networks, energy demand will continue to increase.
-   - **Solution**: Your model can forecast energy consumption and help network operators implement **energy-saving techniques** like turning off unnecessary base stations during low-traffic periods. This helps in:
+   - **Solution**: The model can forecast energy consumption and help network operators implement **energy-saving techniques** like turning off unnecessary base stations during low-traffic periods. This helps in:
      - Reducing **carbon footprint** by optimizing energy usage.
      - Promoting **sustainable business practices** in the telecom industry.
 
 ### 3. **Improved Network Planning and Resource Allocation**
    - **Problem**: Network operators must allocate resources efficiently to maintain the quality of service while keeping operational costs low. This involves managing traffic demand, energy usage, and infrastructure configuration.
-   - **Solution**: By predicting energy usage under different traffic conditions and configurations, your project can aid in:
+   - **Solution**: By predicting energy usage under different traffic conditions and configurations, this project can aid in:
      - **Dynamic scaling** of energy resources: Allocating power efficiently during peak and off-peak hours.
-     - **Smart network planning**: Operators can use your model to simulate various configurations and conditions to determine the most energy-efficient design for their network infrastructure.
+     - **Smart network planning**: Operators can use this model to simulate various configurations and conditions to determine the most energy-efficient design for their network infrastructure.
 
 ### 4. **Enabling Smart Cities and IoT Networks**
    - **Problem**: As cities become "smarter" with the rise of IoT (Internet of Things), 5G infrastructure will need to handle the increased demand for data traffic while minimizing energy consumption.
-   - **Solution**: Your model can be used in **smart city applications** to predict and optimize the energy consumption of 5G base stations. By doing so, it supports smart grids, efficient energy distribution, and more sustainable infrastructure.
+   - **Solution**: This model can be used in **smart city applications** to predict and optimize the energy consumption of 5G base stations. By doing so, it supports smart grids, efficient energy distribution, and more sustainable infrastructure.
 
 ### 5. **Supporting Decision Making for Green Telecom Initiatives**
    - **Problem**: Many telecom operators are adopting **green energy initiatives**, including the integration of renewable energy sources like solar or wind power.
-   - **Solution**: Your model can assist in **decision-making** by identifying where energy consumption is highest and where renewable energy could be integrated to achieve the greatest cost savings and environmental benefit.
+   - **Solution**: This model can assist in **decision-making** by identifying where energy consumption is highest and where renewable energy could be integrated to achieve the greatest cost savings and environmental benefit.
 
 ### 6. **Predicting Future Network Energy Requirements**
    - **Problem**: With the rollout of 5G, the energy demand of networks is rapidly increasing, but accurately forecasting future energy needs can be challenging.
-   - **Solution**: Your project helps predict future energy consumption trends based on real-time and historical data. This allows operators to anticipate energy needs and make proactive adjustments, leading to better **capacity planning** and energy management.
+   - **Solution**: This project helps predict future energy consumption trends based on real-time and historical data. This allows operators to anticipate energy needs and make proactive adjustments, leading to better **capacity planning** and energy management.
 
 ---
 
