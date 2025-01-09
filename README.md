@@ -43,7 +43,7 @@ This project uses the following Python libraries:
 
 1. **Data Preprocessing:**
    - Handled missing values.
-   - Converted time columns to `datetime`.
+   - Converted time column to `datetime`.
    - Detected and removed outliers using the Z-score method for the `ESMODE` column.
 
 2. **Exploratory Data Analysis (EDA):**
